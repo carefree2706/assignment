@@ -10,4 +10,6 @@ Adelaide Boot camp Assignment
 
 Opening the assignment/image/ will have a screenshot what have been changes during the refinement.
 
+https://github.com/carefree2706/assignment/blob/main/image/screenshot.png
+
 
