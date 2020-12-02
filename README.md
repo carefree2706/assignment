@@ -8,3 +8,6 @@ Adelaide Boot camp Assignment
 - Increase header div font size: 25px
 - <nav> added for visually impaired users
 
+Opening the assignment/image/ will have a screenshot what have been changes during the refinement.
+
+
